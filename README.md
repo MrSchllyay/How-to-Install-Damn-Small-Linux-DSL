@@ -36,7 +36,7 @@ and DSL will be install in the HDD
 
 ---
 
-## Crating a SUDO user
+## Creating a SUDO user
 
 DSL have a SUDO user already, but they haven't a password, to setup one go to:
 1. Open the terminal
