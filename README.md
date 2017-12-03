@@ -32,7 +32,7 @@
 
 21. Finally go to the Root Shell again (XShells -> Root Access -> Dark) and type `dsl-dhinstall` -> Enter -> type `hda1`
 -> Enter -> type `y` -> Enter -> Type `n` -> Enter -> Type `y` -> Enter
-and DSL will be install in the HDD
+and DSL will be installed in the HDD
 
 ---
 
