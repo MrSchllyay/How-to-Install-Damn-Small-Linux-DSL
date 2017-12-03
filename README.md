@@ -2,7 +2,7 @@
 ## How to change keyboard language (for Spanish users)
 
 1. Press F2 when the system start to boot
-2. Type "dsl lang=es" for spanish
+2. Type `dsl lang=es` for spanish
 3. Press Enter to save
 ---
 
