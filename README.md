@@ -22,7 +22,7 @@
 11. Choose `[ Primary ]`
 12. The Size for the 1st partition it will show the total available space in your HDD, You should substract 128mb from the total free space from your HDD, example if your HDD is 1GB (1024mb) you have to type 896mb. 
 13. choose `[Beginning]`
-14.and choose `[Bootable]`
+14. and choose `[Bootable]`
 15. now select the 2nd partition, for the remaining 128mb, create a new partition, go to `[ New ]`
 16. Choose `[ Primary ]` and keep the default size memory (always between 120-130mb)
 17. choose `[Type]` -> Enter -> Type `82` -> Enter
