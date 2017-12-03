@@ -60,5 +60,17 @@ You can edit the index.html file, just go to:
 
 ## Instaling a FTP
 
+DSL have a software called BetaFTP, There is a shortcut in the Desktop, you can open and config, also you can go to:
+1. Right click on Desktop -> System -> Daemons -> FTPD -> betaftpd start
+
+and use your remote FTP client to download the files from /mnt/hda1, the user name is `dsl` and the password is what ever you set it to.
+
+---
+
+## Instaling a SSH Server
+
+ssh is already in DSL.
+
+1. Open the terminal and type `$ sudo /etc/init.d/ssh start`
 
 
